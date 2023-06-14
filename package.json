@@ -4,6 +4,7 @@
     "openai": "3.2.1"
   },
   "devDependencies": {
+    "firebase": "9.22.2",
     "vite": "latest"
   },
   "scripts": {
